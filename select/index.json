@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ガッチャマンの歌",
+  "base_artist": "子門真人／コロムビアゆりかご会",
+  "createdAt": "2026-01-05T16:36:45.201493Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ガッチャマンの歌",
+      "artist": "子門真人, コロムビアゆりかご会",
+      "has_synced": false,
+      "path": "select/pl_01_ガッチャマンの歌_子門真人,_コロムビアゆりかご会.txt"
+    }
+  ]
+}
